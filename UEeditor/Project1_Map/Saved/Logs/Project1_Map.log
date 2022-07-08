@@ -1,8 +1,12 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 07/06/22 23:25:00
 =======
 ﻿Log file open, 07/07/22 13:40:25
+>>>>>>> Stashed changes
+=======
+﻿Log file open, 07/08/22 08:43:49
 >>>>>>> Stashed changes
 =======
 ﻿Log file open, 07/08/22 08:43:49
@@ -20,9 +24,13 @@ LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.185688
 =======
 LogStats: Stats thread started at 0.186943
+>>>>>>> Stashed changes
+=======
+LogStats: Stats thread started at 0.735862
 >>>>>>> Stashed changes
 =======
 LogStats: Stats thread started at 0.735862
@@ -34,6 +42,7 @@ LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin LiveLink
 LogPluginManager: Mounting plugin Paper2D
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 =======
@@ -118,6 +127,33 @@ LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin AlembicImporter
 LogPluginManager: Mounting plugin WmfMedia
+=======
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin AutomationUtils
 >>>>>>> Stashed changes
@@ -129,6 +165,7 @@ LogPluginManager: Mounting plugin ChaosEditor
 LogPluginManager: Mounting plugin ChaosSolverPlugin
 LogPluginManager: Mounting plugin CharacterAI
 LogPluginManager: Mounting plugin GeometryCache
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin DatasmithContent
@@ -147,6 +184,11 @@ LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
 LogPluginManager: Mounting plugin OpenImageDenoise
 >>>>>>> Stashed changes
+=======
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin PlanarCut
@@ -155,21 +197,28 @@ LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin SkeletalReduction
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin AndroidMedia
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin LauncherChunkInstaller
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
@@ -197,10 +246,13 @@ LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin AndroidMoviePlayer
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin AndroidPermission
 LogPluginManager: Mounting plugin AppleImageUtils
@@ -228,6 +280,17 @@ LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin CableComponent
 >>>>>>> Stashed changes
+=======
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin EditableMesh
@@ -238,10 +301,14 @@ LogPluginManager: Mounting plugin GoogleCloudMessaging
 LogPluginManager: Mounting plugin GooglePAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin Takes
 =======
 LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin ScreenshotTools
+>>>>>>> Stashed changes
+=======
+LogPluginManager: Mounting plugin MagicLeap
 >>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin MagicLeap
@@ -257,6 +324,7 @@ LogPluginManager: Mounting plugin OpenXREyeTracker
 LogPluginManager: Mounting plugin PhysXVehicles
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
@@ -270,11 +338,22 @@ LogPluginManager: Mounting plugin SoundFields
 <<<<<<< Updated upstream
 =======
 LogPluginManager: Mounting plugin Takes
+=======
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin PropertyAccessEditor
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+>>>>>>> Stashed changes
+=======
+LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin SignificanceManager
@@ -285,14 +364,20 @@ LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin CryptoKeys
 LogPluginManager: Mounting plugin CurveEditorTools
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin AssetManagerEditor
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin DataValidation
 LogPluginManager: Mounting plugin CryptoKeys
@@ -306,6 +391,7 @@ LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin SpeedTreeImporter
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin AISupport
@@ -337,6 +423,8 @@ LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin DatabaseSupport
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin OnlineSubsystemNull
@@ -346,6 +434,9 @@ LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin GameplayCameras
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin SQLiteCore
 LogPluginManager: Mounting plugin SQLiteSupport
@@ -443,6 +534,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2022.07.06-14.25.00:802][  0]LogConfig: Setting CVar [[r.VSync:0]]
@@ -1775,6 +1867,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.06-14.58.03:888][800]LogScript: Warning: Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill
 	BP_FireBall_C /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame:PersistentLevel.BP_FireBall_C_0
 =======
+=======
+>>>>>>> Stashed changes
 [2022.07.07-23.43.49:693][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.07.07-23.43.49:693][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2022.07.07-23.43.49:694][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Saved/Config/Windows/Engine.ini]
@@ -21416,6 +21510,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.07-23.54.47:128][986]PIE: Play in editor total start time 0.149 seconds.
 [2022.07.07-23.54.55:613][992]LogScript: Warning: Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill
 	BP_FireBall_C /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame:PersistentLevel.BP_FireBall_C_2
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 	Function /Game/SS_LevelMap/Blueprints/BP_FireBall.BP_FireBall_C:FireBallBillboard:0185
 [2022.07.07-23.54.55:613][992]PIE: Error: Blueprint Runtime Error: "Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill". Blueprint:  BP_FireBall Function:  Fire Ball Billboard Graph:  FireBallBillboard Node:  SetWorldRotation
@@ -22071,6 +22168,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.08-00.26.59:169][592]LogScript: Warning: Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill
 	BP_FireBall_C /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame:PersistentLevel.BP_FireBall_C_1
 	Function /Game/SS_LevelMap/Blueprints/BP_FireBall.BP_FireBall_C:FireBallBillboard:0185
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2022.07.06-17.33.35:898][932]PIE: Error: 블루프린트 런타임 오류: "FireEffect 프로퍼티를 통해 FireEffect 에 접근하려 하였으나, FireEffect 는 킬 대기중입니다.". 블루프린트: BP_FireBall 함수: Fire Ball Billboard 그래프: FireBallBillboard 노드: SetWorldRotation
 [2022.07.06-17.33.42:696][339]PIE: Error: 블루프린트 런타임 오류: "FireTarget 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: BP_Player 함수: Fire Bullet 그래프: FireBullet 노드: Set Collision Object Type
@@ -30928,6 +31026,8 @@ Make sure 'Usecases_Additional1' has been compiled for  Get MainLightAutoRotatio
 [2022.07.07-07.02.21:527][917]Log file closed, 07/07/22 16:02:21
 >>>>>>> Stashed changes
 =======
+=======
+>>>>>>> Stashed changes
 [2022.07.08-00.26.59:169][592]PIE: Error: Blueprint Runtime Error: "Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill". Blueprint:  BP_FireBall Function:  Fire Ball Billboard Graph:  FireBallBillboard Node:  SetWorldRotation
 [2022.07.08-00.27.09:038][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.07.08-00.27.09:038][767]LogWorld: BeginTearingDown for /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame
@@ -31469,4 +31569,7 @@ Make sure 'Usecases_Additional1' has been compiled for  Get MainLightAutoRotatio
 [2022.07.08-00.27.16:282][898]LogD3D11RHI: CleanupD3DDevice
 [2022.07.08-00.27.16:287][898]LogExit: Exiting.
 [2022.07.08-00.27.16:301][898]Log file closed, 07/08/22 09:27:16
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
