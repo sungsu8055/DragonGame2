@@ -3,9 +3,13 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 07/06/22 23:25:00
 =======
 ﻿Log file open, 07/07/22 13:40:25
+>>>>>>> Stashed changes
+=======
+﻿Log file open, 07/08/22 08:43:49
 >>>>>>> Stashed changes
 =======
 ﻿Log file open, 07/08/22 08:43:49
@@ -35,9 +39,13 @@ LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.185688
 =======
 LogStats: Stats thread started at 0.186943
+>>>>>>> Stashed changes
+=======
+LogStats: Stats thread started at 0.735862
 >>>>>>> Stashed changes
 =======
 LogStats: Stats thread started at 0.735862
@@ -58,6 +66,7 @@ LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin LiveLink
 LogPluginManager: Mounting plugin Paper2D
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -162,6 +171,12 @@ LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin LiveLink
 LogPluginManager: Mounting plugin LightPropagationVolume
 >>>>>>> Stashed changes
+=======
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
@@ -200,6 +215,7 @@ LogPluginManager: Mounting plugin GeometryCache
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin GeometryProcessing
@@ -211,6 +227,11 @@ LogPluginManager: Mounting plugin OpenImageDenoise
 LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin PlatformCrypto
+=======
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
@@ -242,10 +263,13 @@ LogPluginManager: Mounting plugin SkeletalReduction
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin AndroidMedia
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -260,6 +284,9 @@ LogPluginManager: Mounting plugin LauncherChunkInstaller
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -272,6 +299,7 @@ LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -308,10 +336,13 @@ LogPluginManager: Mounting plugin OnlineSubsystemUtils
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin AndroidMoviePlayer
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -331,6 +362,17 @@ LogPluginManager: Mounting plugin CableComponent
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin CustomMeshComponent
+=======
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin ApexDestruction
@@ -388,10 +430,14 @@ LogPluginManager: Mounting plugin GooglePAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin Takes
 =======
 LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin ScreenshotTools
+>>>>>>> Stashed changes
+=======
+LogPluginManager: Mounting plugin MagicLeap
 >>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin MagicLeap
@@ -419,6 +465,11 @@ LogPluginManager: Mounting plugin PhysXVehicles
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
@@ -428,6 +479,7 @@ LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin PropertyAccessEditor
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin SoundFields
 <<<<<<< Updated upstream
 =======
@@ -468,12 +520,17 @@ LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 >>>>>>> Stashed changes
+=======
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -488,6 +545,8 @@ LogPluginManager: Mounting plugin CurveEditorTools
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
@@ -496,6 +555,9 @@ LogPluginManager: Mounting plugin AssetManagerEditor
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -515,6 +577,7 @@ LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin SpeedTreeImporter
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -555,6 +618,8 @@ LogPluginManager: Mounting plugin DatabaseSupport
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin OnlineSubsystemNull
@@ -567,6 +632,9 @@ LogPluginManager: Mounting plugin GameplayCameras
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -670,6 +738,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -2005,6 +2074,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.06-14.58.03:888][800]LogScript: Warning: Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill
 	BP_FireBall_C /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame:PersistentLevel.BP_FireBall_C_0
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -21655,6 +21726,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -21858,6 +21932,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.07-23.58.04:724][995]LogScript: Warning: Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 	BP_FireBall_C /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame:PersistentLevel.BP_FireBall_C_0
@@ -21993,6 +22070,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 	BP_FireBall_C /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame:PersistentLevel.BP_FireBall_C_0
 	Function /Game/SS_LevelMap/Blueprints/BP_FireBall.BP_FireBall_C:FireBallBillboard:0185
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 	BP_FireBall_C /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame:PersistentLevel.BP_FireBall_C_0
 	Function /Game/SS_LevelMap/Blueprints/BP_FireBall.BP_FireBall_C:FireBallBillboard:0185
@@ -22126,6 +22204,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.08-00.05.26:161][540]LogScript: Warning: Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill
 	BP_FireBall_C /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame:PersistentLevel.BP_FireBall_C_0
 	Function /Game/SS_LevelMap/Blueprints/BP_FireBall.BP_FireBall_C:FireBallBillboard:0185
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -22457,6 +22537,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.08-00.26.59:169][592]LogScript: Warning: Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill
 	BP_FireBall_C /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame:PersistentLevel.BP_FireBall_C_1
 	Function /Game/SS_LevelMap/Blueprints/BP_FireBall.BP_FireBall_C:FireBallBillboard:0185
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -31323,6 +31404,8 @@ Make sure 'Usecases_Additional1' has been compiled for  Get MainLightAutoRotatio
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 [2022.07.08-00.26.59:169][592]PIE: Error: Blueprint Runtime Error: "Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill". Blueprint:  BP_FireBall Function:  Fire Ball Billboard Graph:  FireBallBillboard Node:  SetWorldRotation
 [2022.07.08-00.27.09:038][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.07.08-00.27.09:038][767]LogWorld: BeginTearingDown for /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame
@@ -31867,6 +31950,9 @@ Make sure 'Usecases_Additional1' has been compiled for  Get MainLightAutoRotatio
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
