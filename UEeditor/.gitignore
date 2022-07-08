@@ -72,9 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-# Asset
-EnvironmentPack1/
-PhotoR_Backgrounds/
-Realistic_Starter_VFX_Pack_Vol2/
-sA_PickupSet_1/
