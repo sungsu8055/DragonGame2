@@ -1,9 +1,13 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 07/06/22 23:25:00
 =======
 ﻿Log file open, 07/07/22 13:40:25
+>>>>>>> Stashed changes
+=======
+﻿Log file open, 07/08/22 08:43:49
 >>>>>>> Stashed changes
 =======
 ﻿Log file open, 07/08/22 08:43:49
@@ -25,9 +29,13 @@ LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.185688
 =======
 LogStats: Stats thread started at 0.186943
+>>>>>>> Stashed changes
+=======
+LogStats: Stats thread started at 0.735862
 >>>>>>> Stashed changes
 =======
 LogStats: Stats thread started at 0.735862
@@ -42,6 +50,7 @@ LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin LiveLink
 LogPluginManager: Mounting plugin Paper2D
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -132,6 +141,12 @@ LogPluginManager: Mounting plugin OodleData
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin LiveLink
 LogPluginManager: Mounting plugin LightPropagationVolume
+=======
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
@@ -168,6 +183,7 @@ LogPluginManager: Mounting plugin GeometryCache
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin GeometryProcessing
@@ -179,6 +195,11 @@ LogPluginManager: Mounting plugin OpenImageDenoise
 LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin PlatformCrypto
+=======
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
@@ -198,10 +219,13 @@ LogPluginManager: Mounting plugin SkeletalReduction
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin AndroidMedia
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AISupport
@@ -210,6 +234,9 @@ LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin LauncherChunkInstaller
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -218,6 +245,7 @@ LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin WmfMedia
@@ -248,10 +276,13 @@ LogPluginManager: Mounting plugin OnlineSubsystemUtils
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin AndroidMoviePlayer
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin AndroidPermission
@@ -269,6 +300,17 @@ LogPluginManager: Mounting plugin CableComponent
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin CustomMeshComponent
+=======
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin ApexDestruction
@@ -302,10 +344,14 @@ LogPluginManager: Mounting plugin GooglePAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin Takes
 =======
 LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin ScreenshotTools
+>>>>>>> Stashed changes
+=======
+LogPluginManager: Mounting plugin MagicLeap
 >>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin MagicLeap
@@ -325,6 +371,7 @@ LogPluginManager: Mounting plugin PhysXVehicles
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
@@ -342,14 +389,23 @@ LogPluginManager: Mounting plugin Takes
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
 >>>>>>> Stashed changes
+=======
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin PostSplashScreen
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin PropertyAccessEditor
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+>>>>>>> Stashed changes
+=======
+LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 >>>>>>> Stashed changes
 =======
@@ -365,9 +421,12 @@ LogPluginManager: Mounting plugin WindowsMoviePlayer
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin CryptoKeys
 LogPluginManager: Mounting plugin CurveEditorTools
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ActorSequence
@@ -376,6 +435,9 @@ LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin AssetManagerEditor
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -391,6 +453,7 @@ LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin SpeedTreeImporter
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin AnimationSharing
@@ -425,6 +488,8 @@ LogPluginManager: Mounting plugin DatabaseSupport
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin OnlineSubsystemNull
@@ -435,6 +500,9 @@ LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin GameplayCameras
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -534,6 +602,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -1867,6 +1936,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.06-14.58.03:888][800]LogScript: Warning: Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill
 	BP_FireBall_C /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame:PersistentLevel.BP_FireBall_C_0
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 [2022.07.07-23.43.49:693][  0]LogConfig: Setting CVar [[r.VSync:0]]
@@ -21511,6 +21582,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.07-23.54.55:613][992]LogScript: Warning: Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill
 	BP_FireBall_C /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame:PersistentLevel.BP_FireBall_C_2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -21708,6 +21782,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.07-23.58.03:435][865]PIE: Server logged in
 [2022.07.07-23.58.03:436][865]PIE: Play in editor total start time 0.145 seconds.
 [2022.07.07-23.58.04:724][995]LogScript: Warning: Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill
+<<<<<<< Updated upstream
 	BP_FireBall_C /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame:PersistentLevel.BP_FireBall_C_0
 	Function /Game/SS_LevelMap/Blueprints/BP_FireBall.BP_FireBall_C:FireBallBillboard:0185
 [2022.07.07-23.58.04:724][995]PIE: Error: Blueprint Runtime Error: "Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill". Blueprint:  BP_FireBall Function:  Fire Ball Billboard Graph:  FireBallBillboard Node:  SetWorldRotation
@@ -21840,6 +21915,140 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.08-00.05.26:161][540]LogScript: Warning: Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill
 	BP_FireBall_C /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame:PersistentLevel.BP_FireBall_C_0
 	Function /Game/SS_LevelMap/Blueprints/BP_FireBall.BP_FireBall_C:FireBallBillboard:0185
+=======
+	BP_FireBall_C /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame:PersistentLevel.BP_FireBall_C_0
+	Function /Game/SS_LevelMap/Blueprints/BP_FireBall.BP_FireBall_C:FireBallBillboard:0185
+[2022.07.07-23.58.04:724][995]PIE: Error: Blueprint Runtime Error: "Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill". Blueprint:  BP_FireBall Function:  Fire Ball Billboard Graph:  FireBallBillboard Node:  SetWorldRotation
+[2022.07.07-23.58.12:349][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-23.58.12:349][787]LogWorld: BeginTearingDown for /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame
+[2022.07.07-23.58.12:350][787]LogWorld: UWorld::CleanupWorld for DragonGame, bSessionEnded=true, bCleanupResources=true
+[2022.07.07-23.58.12:352][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-23.58.12:359][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.07-23.58.12:366][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.07-23.58.12:393][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.07-23.58.12:394][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-23.58.12:395][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.07-23.58.12:402][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.07.07-23.58.12:480][788]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.07.07-23.58.14:438][950]LogSlate: Window 'Message Log' being destroyed
+[2022.07.07-23.58.14:451][950]LogSlate: Window 'Message Log' being destroyed
+[2022.07.07-23.58.38:071][663]BlueprintLog: New page: Compile BP_Player
+[2022.07.07-23.58.38:137][663]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.07.07-23.58.38:644][697]LogSavePackage: Moving '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Saved/BP_PlayerAE3543F84520E5060B4CDA9041CE7FA4.tmp' to '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Content/SS_LevelMap/Blueprints/BP_Player.uasset'
+[2022.07.07-23.58.38:659][697]AssetCheck: New page: Asset Save: BP_Player
+[2022.07.07-23.58.38:659][697]LogContentValidation: Display: Validating Blueprint /Game/SS_LevelMap/Blueprints/BP_Player.BP_Player
+[2022.07.07-23.59.00:862][328]LogSavePackage: Moving '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Saved/BP_Player0AC6A3DE4B8D647674B5D499F72FC5DE.tmp' to '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Content/SS_LevelMap/Blueprints/BP_Player.uasset'
+[2022.07.07-23.59.00:875][328]AssetCheck: New page: Asset Save: BP_Player
+[2022.07.07-23.59.00:875][328]LogContentValidation: Display: Validating Blueprint /Game/SS_LevelMap/Blueprints/BP_Player.BP_Player
+[2022.07.07-23.59.08:271][175]LogSavePackage: Moving '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Saved/BP_PlayerDCAD091D4AA6449A18DB498E291938B8.tmp' to '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Content/SS_LevelMap/Blueprints/BP_Player.uasset'
+[2022.07.07-23.59.08:283][175]AssetCheck: New page: Asset Save: BP_Player
+[2022.07.07-23.59.08:283][175]LogContentValidation: Display: Validating Blueprint /Game/SS_LevelMap/Blueprints/BP_Player.BP_Player
+[2022.07.07-23.59.15:119][972]LogSavePackage: Moving '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Saved/BP_Player02B94C114ABDD9AC7EF00489ACAA7076.tmp' to '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Content/SS_LevelMap/Blueprints/BP_Player.uasset'
+[2022.07.07-23.59.15:131][972]AssetCheck: New page: Asset Save: BP_Player
+[2022.07.07-23.59.15:131][972]LogContentValidation: Display: Validating Blueprint /Game/SS_LevelMap/Blueprints/BP_Player.BP_Player
+[2022.07.08-00.00.22:378][894]LogSavePackage: Moving '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Saved/BP_Player1D7EF3994E29340ED6845E9264E02092.tmp' to '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Content/SS_LevelMap/Blueprints/BP_Player.uasset'
+[2022.07.08-00.00.22:391][894]AssetCheck: New page: Asset Save: BP_Player
+[2022.07.08-00.00.22:391][894]LogContentValidation: Display: Validating Blueprint /Game/SS_LevelMap/Blueprints/BP_Player.BP_Player
+[2022.07.08-00.02.06:050][190]BlueprintLog: New page: Compile BP_Player
+[2022.07.08-00.02.06:128][190]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2022.07.08-00.02.13:385][  4]BlueprintLog: New page: Compile BP_Player
+[2022.07.08-00.02.13:455][  4]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.07.08-00.02.13:862][ 37]LogSavePackage: Moving '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Saved/BP_Player069035CF46FCF1936D8E7CA7C9C9AF4D.tmp' to '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Content/SS_LevelMap/Blueprints/BP_Player.uasset'
+[2022.07.08-00.02.13:876][ 37]AssetCheck: New page: Asset Save: BP_Player
+[2022.07.08-00.02.13:876][ 37]LogContentValidation: Display: Validating Blueprint /Game/SS_LevelMap/Blueprints/BP_Player.BP_Player
+[2022.07.08-00.03.11:599][783]BlueprintLog: New page: Compile BP_FireBall
+[2022.07.08-00.03.11:660][783]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2022.07.08-00.03.12:062][816]LogSavePackage: Moving '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Saved/BP_FireBallE798C13C459AFFEFA96A6E8455A088BB.tmp' to '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Content/SS_LevelMap/Blueprints/BP_FireBall.uasset'
+[2022.07.08-00.03.12:077][816]AssetCheck: New page: Asset Save: BP_FireBall
+[2022.07.08-00.03.12:077][816]LogContentValidation: Display: Validating Blueprint /Game/SS_LevelMap/Blueprints/BP_FireBall.BP_FireBall
+[2022.07.08-00.03.52:816][807]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_Fire_Small.P_Fire_Small
+[2022.07.08-00.03.52:833][807]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2022.07.08-00.04.10:473][997]LogSlate: Window 'P_Fire_Small' being destroyed
+[2022.07.08-00.04.10:485][997]LogCascade: Quitting Cascade. FXSystem=0x0000015FC4AC1810
+[2022.07.08-00.04.10:491][997]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.07.08-00.04.10:491][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.08-00.04.30:283][706]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_Fire_Big.P_Fire_Big
+[2022.07.08-00.04.37:173][189]LogSlate: Window 'P_Fire_Big' being destroyed
+[2022.07.08-00.04.37:188][189]LogCascade: Quitting Cascade. FXSystem=0x0000016065FE2620
+[2022.07.08-00.04.37:193][189]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.07.08-00.04.37:193][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.08-00.04.54:890][555]BlueprintLog: New page: Compile BP_FireBall
+[2022.07.08-00.04.55:017][555]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2022.07.08-00.04.55:365][572]LogSavePackage: Moving '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Saved/BP_FireBallA44ABE7A471EFB73E3549282D99F35ED.tmp' to '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Content/SS_LevelMap/Blueprints/BP_FireBall.uasset'
+[2022.07.08-00.04.55:380][572]AssetCheck: New page: Asset Save: BP_FireBall
+[2022.07.08-00.04.55:380][572]LogContentValidation: Display: Validating Blueprint /Game/SS_LevelMap/Blueprints/BP_FireBall.BP_FireBall
+[2022.07.08-00.05.00:178][985]BlueprintLog: New page: Compile BP_FireBall
+[2022.07.08-00.05.00:268][985]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.07.08-00.05.00:745][ 18]LogSavePackage: Moving '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Saved/BP_FireBall60AA67334611D082570347AEB2E7C943.tmp' to '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Content/SS_LevelMap/Blueprints/BP_FireBall.uasset'
+[2022.07.08-00.05.00:760][ 18]AssetCheck: New page: Asset Save: BP_FireBall
+[2022.07.08-00.05.00:760][ 18]LogContentValidation: Display: Validating Blueprint /Game/SS_LevelMap/Blueprints/BP_FireBall.BP_FireBall
+[2022.07.08-00.05.08:689][744]BlueprintLog: New page: Compile BP_FireBall
+[2022.07.08-00.05.08:746][744]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.07.08-00.05.09:180][774]LogSavePackage: Moving '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Saved/BP_FireBallAC3DA33D408836CE21B3D68530C684A8.tmp' to '../../../../../../Users/UserK/Desktop/Unreal Project/DragonGame2/UEeditor/Project1_Map/Content/SS_LevelMap/Blueprints/BP_FireBall.uasset'
+[2022.07.08-00.05.09:195][774]AssetCheck: New page: Asset Save: BP_FireBall
+[2022.07.08-00.05.09:196][774]LogContentValidation: Display: Validating Blueprint /Game/SS_LevelMap/Blueprints/BP_FireBall.BP_FireBall
+[2022.07.08-00.05.16:241][380]LogSlate: Window 'BP_FireBall' being destroyed
+[2022.07.08-00.05.16:247][380]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.07.08-00.05.16:247][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.08-00.05.18:970][697]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.08-00.05.18:976][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.08-00.05.18:976][697]PIE: New page: PIE session: DragonGame (2022. 7. 8. 오후 6:05:18)
+[2022.07.08-00.05.19:018][697]LogPlayLevel: Creating play world package: /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame
+[2022.07.08-00.05.19:052][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033791s)
+[2022.07.08-00.05.19:052][697]LogAIModule: Creating AISystem for world DragonGame
+[2022.07.08-00.05.19:053][697]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2022.07.08-00.05.19:053][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SS_LevelMap/Maps/DragonGame.DragonGame to /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame (0.034821s)
+[2022.07.08-00.05.19:086][697]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.07.08-00.05.19:089][697]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.07.08-00.05.19:089][697]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.08-00.05.19:089][697]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.08-00.05.19:089][697]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.08-00.05.19:089][697]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.08-00.05.19:089][697]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.08-00.05.19:089][697]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.08-00.05.19:089][697]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.08-00.05.19:089][697]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.08-00.05.19:090][697]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.08-00.05.19:090][697]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.08-00.05.19:090][697]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.08-00.05.19:090][697]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.08-00.05.19:092][697]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.08-00.05.19:092][697]LogAudioMixer: Display: 1: FrontRight
+[2022.07.08-00.05.19:102][697]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2022.07.08-00.05.19:102][697]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.08-00.05.19:102][697]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.08-00.05.19:102][697]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.08-00.05.19:102][697]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.08-00.05.19:102][697]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.08-00.05.19:102][697]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.08-00.05.19:103][697]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.08-00.05.19:103][697]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.08-00.05.19:103][697]LogInit: FAudioDevice initialized.
+[2022.07.08-00.05.19:103][697]LogAudio: Display: Audio Device (ID: 6) registered with world 'DragonGame'.
+[2022.07.08-00.05.19:114][697]LogLoad: Game class is 'FlyingGameMode_C'
+[2022.07.08-00.05.19:121][697]LogWorld: Bringing World /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame up for play (max tick rate 0) at 2022.07.08-09.05.19
+[2022.07.08-00.05.19:121][697]LogWorld: Bringing up level for play took: 0.007120
+[2022.07.08-00.05.19:122][697]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.07.08-00.05.19:125][697]Cmd: r.VolumetricCloud.DistanceToSampleMaxCount 6.0
+[2022.07.08-00.05.19:125][697]r.VolumetricCloud.DistanceToSampleMaxCount = "6"
+[2022.07.08-00.05.19:126][697]Cmd: r.VolumetricRenderTarget.Mode 2
+[2022.07.08-00.05.19:126][697]r.VolumetricRenderTarget.Mode = "2"
+[2022.07.08-00.05.19:126][697]Cmd: r.VolumetricRenderTarget 1
+[2022.07.08-00.05.19:126][697]r.VolumetricRenderTarget = "1"
+[2022.07.08-00.05.19:126][697]Cmd: r.LightFunctionQuality 1
+[2022.07.08-00.05.19:126][697]r.LightFunctionQuality = "1"
+[2022.07.08-00.05.19:126][697]Cmd: r.SkyLight.RealTimeReflectionCapture 1
+[2022.07.08-00.05.19:126][697]r.SkyLight.RealTimeReflectionCapture = "1"
+[2022.07.08-00.05.19:126][697]Cmd: r.SkyLight.RealTimeReflectionCapture.TimeSlice 1
+[2022.07.08-00.05.19:126][697]r.SkyLight.RealTimeReflectionCapture.TimeSlice = "1"
+[2022.07.08-00.05.19:126][697]Cmd: r.EyeAdaptation.BlackHistogramBucketInfluence 0.5
+[2022.07.08-00.05.19:126][697]r.EyeAdaptation.BlackHistogramBucketInfluence = "0.5"
+[2022.07.08-00.05.19:127][697]PIE: Server logged in
+[2022.07.08-00.05.19:127][697]PIE: Play in editor total start time 0.152 seconds.
+[2022.07.08-00.05.26:161][540]LogScript: Warning: Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill
+	BP_FireBall_C /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame:PersistentLevel.BP_FireBall_C_0
+	Function /Game/SS_LevelMap/Blueprints/BP_FireBall.BP_FireBall_C:FireBallBillboard:0185
+>>>>>>> Stashed changes
 [2022.07.08-00.05.26:161][540]PIE: Error: Blueprint Runtime Error: "Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill". Blueprint:  BP_FireBall Function:  Fire Ball Billboard Graph:  FireBallBillboard Node:  SetWorldRotation
 [2022.07.08-00.05.33:254][391]LogScript: Warning: Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill
 	BP_FireBall_C /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame:PersistentLevel.BP_FireBall_C_1
@@ -22168,6 +22377,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.08-00.26.59:169][592]LogScript: Warning: Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill
 	BP_FireBall_C /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame.DragonGame:PersistentLevel.BP_FireBall_C_1
 	Function /Game/SS_LevelMap/Blueprints/BP_FireBall.BP_FireBall_C:FireBallBillboard:0185
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2022.07.06-17.33.35:898][932]PIE: Error: 블루프린트 런타임 오류: "FireEffect 프로퍼티를 통해 FireEffect 에 접근하려 하였으나, FireEffect 는 킬 대기중입니다.". 블루프린트: BP_FireBall 함수: Fire Ball Billboard 그래프: FireBallBillboard 노드: SetWorldRotation
@@ -31028,6 +31238,8 @@ Make sure 'Usecases_Additional1' has been compiled for  Get MainLightAutoRotatio
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 [2022.07.08-00.26.59:169][592]PIE: Error: Blueprint Runtime Error: "Attempted to access FireEffect via property FireEffect, but FireEffect is pending kill". Blueprint:  BP_FireBall Function:  Fire Ball Billboard Graph:  FireBallBillboard Node:  SetWorldRotation
 [2022.07.08-00.27.09:038][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.07.08-00.27.09:038][767]LogWorld: BeginTearingDown for /Game/SS_LevelMap/Maps/UEDPIE_0_DragonGame
@@ -31570,6 +31782,9 @@ Make sure 'Usecases_Additional1' has been compiled for  Get MainLightAutoRotatio
 [2022.07.08-00.27.16:287][898]LogExit: Exiting.
 [2022.07.08-00.27.16:301][898]Log file closed, 07/08/22 09:27:16
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
