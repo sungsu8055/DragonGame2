@@ -72,10 +72,14 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 DerivedDataCache/*
 
 # Assets
 Particles_Wind_Control_System/
+=======
+DerivedDataCache/*
+>>>>>>> Stashed changes
 =======
 DerivedDataCache/*
 >>>>>>> Stashed changes
